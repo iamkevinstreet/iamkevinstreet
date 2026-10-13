@@ -2,7 +2,7 @@
 
 I build practical AI and data systems for financial and professional-services teams, and the evaluations that show whether they are ready for production.
 
-VP, Market Risk and Liquidity at Northern Trust. Nine years turning billions in daily exposure into decisions, now applied to AI systems: backtesting is offline evaluation, monitoring is observability, limits are guardrails. Everything I build cites its sources and ships with its evals.
+The question I put to every system is the one a risk committee asks: how would we know if this is wrong? Backtesting is offline evaluation, monitoring is observability, limits are guardrails. Everything I build cites its sources and ships with its evals.
 
 Portfolio and technical documentation: https://kevindstreet.com
 
