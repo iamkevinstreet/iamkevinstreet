@@ -1,8 +1,8 @@
 # Kevin Street
 
-I build practical AI and data systems for financial and professional-services teams, and the evaluations that show whether they are ready for production.
+I build practical AI and data systems for the people who do skilled work: professional-services teams, small businesses and the trades. Every system ships with the evaluations that show whether it is ready for production.
 
-The question I put to every system is the one a risk committee asks: how would we know if this is wrong? Backtesting is offline evaluation, monitoring is observability, limits are guardrails. Everything I build cites its sources and ships with its evals.
+The question I put to every system is the one an owner or a risk committee asks: how would we know if this is wrong? Backtesting is offline evaluation, monitoring is observability, limits are guardrails. Everything I build cites its sources and ships with its evals.
 
 Portfolio and technical documentation: https://kevindstreet.com
 
