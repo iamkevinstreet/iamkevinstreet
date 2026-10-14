@@ -1,8 +1,8 @@
 # Kevin Street
 
-I build practical AI and data systems for the people who do skilled work: professional-services teams, small businesses and the trades. Every system ships with the evaluations that show whether it is ready for production.
+I build AI and data systems for professional-services teams, small businesses and the trades, and I test them well enough to say whether they are ready for real use.
 
-The question I put to every system is the one an owner or a risk committee asks: how would we know if this is wrong? Backtesting is offline evaluation, monitoring is observability, limits are guardrails. Everything I build cites its sources and ships with its evals.
+Every system on my site comes with a test set and a results table, so you can see where it works and where it fails before anyone relies on it.
 
 Portfolio and technical documentation: https://kevindstreet.com
 
@@ -12,6 +12,6 @@ Portfolio and technical documentation: https://kevindstreet.com
 
 [New-matter intake agent with scoped tools and approval gates](https://kevindstreet.com/projects/intake-conflicts-check-agent/)
 
-Teaching in public: Let's Learn Out Loud, where I explain practical AI and data systems through real open-source workflows.
+Teaching: Let's Learn Out Loud, where I explain AI and data systems through real open-source workflows.
 
-Work with me: info@kevindstreet.com | LinkedIn: https://www.linkedin.com/in/iamkevinstreet/
+Email info@kevindstreet.com with a sentence or two about what you are working on, and we will set up a time to talk. Follow us on LinkedIn: https://www.linkedin.com/in/iamkevinstreet/
