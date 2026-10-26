@@ -1,6 +1,6 @@
 # Kevin Street
 
-I build AI and data systems for businesses, and I test them well enough to say whether they are ready for real use.
+I build secure AI and data systems for businesses, and I test them well enough to say whether they are ready for real use.
 
 Every system comes with a test set and a results table, so you can see where it works and where it fails before anyone relies on it.
 
